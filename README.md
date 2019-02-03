@@ -1,4 +1,4 @@
-## RESTful api with Node.js
+## RESTful API with Node.js
 
 
 - #### use Mysql and WampServer
